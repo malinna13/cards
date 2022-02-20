@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.myBlock {
+  width: 400px;
+  background-color: aquamarine;
+  font-size: 10px;
+}
